@@ -2,7 +2,7 @@
 
 <p align="center"> 💻 Developer Fullstack Júnior.</p>
 
-<p align="center"> 👨‍🎓 Atualmente Estuda Análise e Desenvolvimento de Sistemas na unip. </p>
+<p align="center"> 👨‍🎓 Atualmente Estuda Análise e Desenvolvimento de Sistemas na Universidade Paulista. </p>
 
 <p align="center"> 📚 Student Rocketseat GoStack 🚀 </p>
 
