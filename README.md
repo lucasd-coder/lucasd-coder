@@ -1,8 +1,8 @@
-<p aliign="center">Lucas da Rocha Silva</p>
+# Lucas da Rocha Silva
 
 <p align="center"> 💻 Developer Fullstack Júnior.</p>
 
-<p align="center"> 👨‍🎓 Atualmente Estuda Análise e Desenvolvimento de Sistemas na Universidade Paulista. </p>
+<p align="center"> 👨‍🎓 Graduating in Software Analysis and Development Universidade Paulista. </p>
 
 <p align="center"> 📚 Student Rocketseat GoStack 🚀 </p>
 
